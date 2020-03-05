@@ -1,0 +1,7 @@
+{
+  "npmClient": "tnpm",
+  "packages": [
+    "packages/*"
+  ],
+  "version": "1.0.1"
+}
